@@ -8,8 +8,8 @@
     "Ciudad": "Bello",
     "Celular": "3215468555",
     "Valor": 120000,
-    "Descripcion": "Pago Recaudo"
-  },
+    "Descripcion": "Pago Recaudo",
+  }
   {
     "Factura": "EP001",
     "Nombre": "Alejandra Correa",
@@ -19,8 +19,8 @@
     "Ciudad": "Bello",
     "Celular": "3215468555",
     "Valor": 5000,
-    "Descripcion": "Pago Recaudo"
-  },
+    "Descripcion": "Pago Recaudo",
+  }
   {
     "Factura": "EP003",
     "Nombre": "Andres Tanga",
@@ -30,8 +30,8 @@
     "Ciudad": "Caldas",
     "Celular": "3289468555",
     "Valor": 100000,
-    "Descripcion": "Pago Recaudo"
-  },
+    "Descripcion": "Pago Recaudo",
+  }
   {
     "Factura": "EP004",
     "Nombre": "Andres Ruiz",
@@ -41,8 +41,8 @@
     "Ciudad": "Medellin",
     "Celular": "3289475555",
     "Valor": 90000,
-    "Descripcion": "Pago Recaudo"
-  },
+    "Descripcion": "Pago Recaudo",
+  }
   {
     "Factura": "EP005",
     "Nombre": "Angeles Abello",
@@ -52,6 +52,6 @@
     "Ciudad": "Santa Marta",
     "Celular": "3206536985",
     "Valor": 120000,
-    "Descripcion": "Pago Recaudo"
+    "Descripcion": "Pago Recaudo",
   }
 ]
