@@ -54,26 +54,4 @@
     "Valor": 120000,
     "Descripcion": "Pago Recaudo"
   },
-  {
-    "Factura": "EP006",
-    "Nombre": "Juan Valencia",
-    "Tipo de identificacion": "CC",
-    "Cedula": "965832",
-    "email": "juan.valencia@payco.co",
-    "Ciudad": "Medellin",
-    "Celular": "3289468555",
-    "Valor": 168900,
-    "Descripcion": "Pago Recaudo"
-  },
-  {
-    "Factura": "EP007",
-    "Nombre": "Carlos Moreno",
-    "Tipo de identificacion": "CC",
-    "Cedula": "7451203",
-    "email": "Carlos.moreno@payco.co",
-    "Ciudad": "Medellin",
-    "Celular": "3289418555",
-    "Valor": 21000,
-    "Descripcion": "Pago Recaudo"
-  }
 ]
