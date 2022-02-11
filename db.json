@@ -1,57 +1,63 @@
-[
-"facturas"{
-      "Factura": "EP001",
-      "Nombre": "Alejandra Correa",
-      "Tipo de identificacion": "CC",
-      "Cedula": "123456",
-      "email": "maria.correa@payco.co",
-      "Ciudad": "Bello",
-      "Celular": "3215468555",
-      "Valor": 120000,
-      "Descripcion": "Pago Recaudo"
-    },
-    {
-      "Factura": "EP001",
-      "Nombre": "Alejandra Correa",
-      "Tipo de identificacion": "CC",
-      "Cedula": "123456",
-      "email": "maria.correa@payco.co",
-      "Ciudad": "Bello",
-      "Celular": "3215468555",
-      "Valor": 5000,
-      "Descripcion": "Pago Recaudo"
-    },
-    {
-      "Factura": "EP003",
-      "Nombre": "Andres Tanga",
-      "Tipo de identificacion": "CC",
-      "Cedula": "654321",
-      "email": "andres.tanga@payco.co",
-      "Ciudad": "Caldas",
-      "Celular": "3289468555",
-      "Valor": 100000,
-      "Descripcion": "Pago Recaudo"
-    },
-    {
-      "Factura": "EP004",
-      "Nombre": "Andres Ruiz",
-      "Tipo de identificacion": "CC",
-      "Cedula": "965874",
-      "email": "andres.ruiz@payco.co",
-      "Ciudad": "Medellin",
-      "Celular": "3289475555",
-      "Valor": 90000,
-      "Descripcion": "Pago Recaudo"
-    },
-    {
-      "Factura": "EP005",
-      "Nombre": "Angeles Abello",
-      "Tipo de identificacion": "CC",
-      "Cedula": "745218",
-      "email": "angeles.abello@payco.co",
-      "Ciudad": "Santa Marta",
-      "Celular": "3206536985",
-      "Valor": 120000,
-      "Descripcion": "Pago Recaudo"
-    }
-]
+{
+    "facturas": [{
+            "id": "0001",
+            "tipo": "CC",
+            "cc": "1194418306",
+            "name": "Diego Vargas",
+            "descripcion": "Credito Vehiculo",
+            "cuota": 798000,
+            "iva": 133000,
+            "total": "$ 10.00 COP",
+            "max":5,
+            "min":1
+        },
+        {
+            "id": "0002",
+            "tipo": "CC",
+            "cc": "1194418306",
+            "name": "Diego Vargas",
+            "descripcion": "Credito Vehiculo",
+            "cuota": 912272,
+            "iva": 152000,
+            "total": "$ 10.00 COP",
+            "max":5,
+            "min":1
+        },
+        {
+            "id": "0003",
+            "tipo": "CC",
+            "cc": "1194418306",
+            "name": "Diego Vargas",
+            "descripcion": "Credito Vehiculo",
+            "cuota": 912272,
+            "iva": 152000,
+            "total": "$ 10.00 COP",
+            "max":5,
+            "min":1
+        },
+        {
+            "id": "0004",
+            "tipo": "CC",
+            "cc": "1194418306",
+            "name": "Diego Vargas",
+            "descripcion": "Credito Vehiculo",
+            "cuota": 798000,
+            "iva": 133000,
+            "total": "$ 10.00 COP",
+            "max":5,
+            "min":1
+        },
+        {
+            "id": "0005",
+            "tipo": "CC",
+            "cc": "223344",
+            "name": "Maria Correa",
+            "descripcion": "Credito Linea Blanca",
+            "cuota": 1.0,
+            "iva": 1.0,
+            "total": "$ 1,000.00 COP",
+            "max":5,
+            "min":1
+        }
+    ]
+}
