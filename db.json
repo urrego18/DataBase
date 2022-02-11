@@ -5,8 +5,8 @@
             "cc": "1194418306",
             "name": "Diego Vargas",
             "descripcion": "Credito Vehiculo",
-            "cuota": 798000,
-            "iva": 133000,
+            "cuota": 10,
+            "iva": 19,
             "total": "$ 10.00 COP",
             "max":5,
             "min":1
