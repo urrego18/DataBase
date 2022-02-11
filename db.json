@@ -9,7 +9,7 @@
     "Celular": "3215468555",
     "Valor": 120000,
     "Descripcion": "Pago Recaudo"
-  },
+  }
   {
     "Factura": "EP001",
     "Nombre": "Alejandra Correa",
@@ -20,7 +20,7 @@
     "Celular": "3215468555",
     "Valor": 5000,
     "Descripcion": "Pago Recaudo"
-  },
+  }
   {
     "Factura": "EP003",
     "Nombre": "Andres Tanga",
@@ -31,7 +31,7 @@
     "Celular": "3289468555",
     "Valor": 100000,
     "Descripcion": "Pago Recaudo"
-  },
+  }
   {
     "Factura": "EP004",
     "Nombre": "Andres Ruiz",
@@ -42,7 +42,7 @@
     "Celular": "3289475555",
     "Valor": 90000,
     "Descripcion": "Pago Recaudo"
-  },
+  }
   {
     "Factura": "EP005",
     "Nombre": "Angeles Abello",
@@ -53,5 +53,5 @@
     "Celular": "3206536985",
     "Valor": 120000,
     "Descripcion": "Pago Recaudo"
-  },
-]
+  }
+],
